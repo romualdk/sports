@@ -1,0 +1,43 @@
+[
+    {"sport": "KAYAKING"},
+    {"source": "INPUT_MANUAL_MOBILE"},
+    {"created_date": "2017-08-05 11:08:48.0"},
+    {"start_time": "2017-08-05 07:25:00.0"},
+    {"end_time": "2017-08-05 10:25:00.0"},
+    {"duration_s": 10800},
+    {"distance_km": 12},
+    {"calories_kcal": 1014.94},
+    {"altitude_min_m": 84.1},
+    {"altitude_max_m": 84.1},
+    {"speed_avg_kmh": 4},
+    {"hydration_l": 0},
+    {"ascend_m": 0},
+    {"descend_m": 0},
+    {"points": [
+        [
+            {"location": [[
+                {"latitude": 53.4908232},
+                {"longitude": 22.7270895}
+            ]]},
+            {"distance_km": 0},
+            {"timestamp": "Sat Aug 05 07:25:00 UTC 2017"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 53.4908232},
+                {"longitude": 22.7270895}
+            ]]},
+            {"altitude": 84.1},
+            {"distance_km": 0},
+            {"timestamp": "Sat Aug 05 07:25:00 UTC 2017"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 53.4908232},
+                {"longitude": 22.7270895}
+            ]]},
+            {"distance_km": 0},
+            {"timestamp": "Sat Aug 05 10:25:00 UTC 2017"}
+        ]
+    ]}
+]

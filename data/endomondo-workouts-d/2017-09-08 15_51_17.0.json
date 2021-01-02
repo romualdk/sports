@@ -1,0 +1,43 @@
+[
+    {"sport": "WALKING"},
+    {"source": "INPUT_MANUAL_MOBILE"},
+    {"created_date": "2017-09-08 15:51:17.0"},
+    {"start_time": "2017-09-08 14:26:00.0"},
+    {"end_time": "2017-09-08 15:34:00.0"},
+    {"duration_s": 4080},
+    {"distance_km": 4.5},
+    {"calories_kcal": 239.8},
+    {"altitude_min_m": 88.2},
+    {"altitude_max_m": 88.2},
+    {"speed_avg_kmh": 3.9705882352941178},
+    {"hydration_l": 0},
+    {"ascend_m": 0},
+    {"descend_m": 0},
+    {"points": [
+        [
+            {"location": [[
+                {"latitude": 52.2480114},
+                {"longitude": 21.0965676}
+            ]]},
+            {"distance_km": 0},
+            {"timestamp": "Fri Sep 08 14:26:00 UTC 2017"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2480114},
+                {"longitude": 21.0965676}
+            ]]},
+            {"altitude": 88.2},
+            {"distance_km": 0},
+            {"timestamp": "Fri Sep 08 14:26:00 UTC 2017"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2480114},
+                {"longitude": 21.0965676}
+            ]]},
+            {"distance_km": 4.5},
+            {"timestamp": "Fri Sep 08 15:34:00 UTC 2017"}
+        ]
+    ]}
+]

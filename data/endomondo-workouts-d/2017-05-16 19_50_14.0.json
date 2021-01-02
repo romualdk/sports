@@ -1,0 +1,43 @@
+[
+    {"sport": "RUNNING"},
+    {"source": "INPUT_MANUAL_MOBILE"},
+    {"created_date": "2017-05-16 19:50:14.0"},
+    {"start_time": "2017-05-16 19:03:00.0"},
+    {"end_time": "2017-05-16 19:34:00.0"},
+    {"duration_s": 1860},
+    {"distance_km": 4.949999809265137},
+    {"calories_kcal": 339.03},
+    {"altitude_min_m": 3},
+    {"altitude_max_m": 3},
+    {"speed_avg_kmh": 9.580644792126071},
+    {"hydration_l": 0},
+    {"ascend_m": 0},
+    {"descend_m": 0},
+    {"points": [
+        [
+            {"location": [[
+                {"latitude": 39.4708265},
+                {"longitude": -0.3285041}
+            ]]},
+            {"distance_km": 0},
+            {"timestamp": "Tue May 16 19:03:00 UTC 2017"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 39.4708265},
+                {"longitude": -0.3285041}
+            ]]},
+            {"altitude": 3},
+            {"distance_km": 0},
+            {"timestamp": "Tue May 16 19:03:00 UTC 2017"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 39.4708265},
+                {"longitude": -0.3285041}
+            ]]},
+            {"distance_km": 4.95},
+            {"timestamp": "Tue May 16 19:34:00 UTC 2017"}
+        ]
+    ]}
+]

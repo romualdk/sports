@@ -1,0 +1,43 @@
+[
+    {"sport": "CYCLING_TRANSPORTATION"},
+    {"source": "INPUT_MANUAL_MOBILE"},
+    {"created_date": "2017-02-03 18:34:24.0"},
+    {"start_time": "2017-02-03 16:33:00.0"},
+    {"end_time": "2017-02-03 17:43:00.0"},
+    {"duration_s": 4200},
+    {"distance_km": 27.5},
+    {"calories_kcal": 744.63},
+    {"altitude_min_m": 68.5},
+    {"altitude_max_m": 68.5},
+    {"speed_avg_kmh": 23.571428571428573},
+    {"hydration_l": 0},
+    {"ascend_m": 0},
+    {"descend_m": 0},
+    {"points": [
+        [
+            {"location": [[
+                {"latitude": 52.2457479},
+                {"longitude": 21.085272}
+            ]]},
+            {"distance_km": 0},
+            {"timestamp": "Fri Feb 03 16:33:00 UTC 2017"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2457479},
+                {"longitude": 21.085272}
+            ]]},
+            {"altitude": 68.5},
+            {"distance_km": 0},
+            {"timestamp": "Fri Feb 03 16:33:00 UTC 2017"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2457479},
+                {"longitude": 21.085272}
+            ]]},
+            {"distance_km": 27.5},
+            {"timestamp": "Fri Feb 03 17:43:00 UTC 2017"}
+        ]
+    ]}
+]

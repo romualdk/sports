@@ -1,0 +1,4399 @@
+[
+    {"sport": "RUNNING"},
+    {"source": "TRACK_MOBILE"},
+    {"created_date": "2019-06-20 18:50:15.0"},
+    {"start_time": "2019-06-20 18:50:13.0"},
+    {"end_time": "2019-06-20 19:35:30.0"},
+    {"duration_s": 2711.537783},
+    {"distance_km": 8.45},
+    {"calories_kcal": 532.204},
+    {"altitude_min_m": 80.9},
+    {"altitude_max_m": 84.8},
+    {"speed_avg_kmh": 11.218726211642094},
+    {"speed_max_kmh": 20.05},
+    {"hydration_l": 0.98},
+    {"ascend_m": 0},
+    {"descend_m": 0},
+    {"points": [
+        [
+            {"location": [[
+                {"latitude": 52.247698},
+                {"longitude": 21.0957672}
+            ]]},
+            {"distance_km": 0},
+            {"timestamp": "Thu Jun 20 18:50:13 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.247698},
+                {"longitude": 21.0957672}
+            ]]},
+            {"altitude": 83.8},
+            {"distance_km": 0},
+            {"speed_kmh": 7.0304},
+            {"timestamp": "Thu Jun 20 18:50:20 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2477639},
+                {"longitude": 21.0956432}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 0.011},
+            {"speed_kmh": 2.7898},
+            {"timestamp": "Thu Jun 20 18:50:27 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2478167},
+                {"longitude": 21.0954318}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 0.027},
+            {"speed_kmh": 4.9982},
+            {"timestamp": "Thu Jun 20 18:50:38 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479052},
+                {"longitude": 21.0952159}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 0.045},
+            {"speed_kmh": 6.4955},
+            {"timestamp": "Thu Jun 20 18:50:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479942},
+                {"longitude": 21.0950333}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 0.06},
+            {"speed_kmh": 7.4995},
+            {"timestamp": "Thu Jun 20 18:50:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479932},
+                {"longitude": 21.0947846}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 0.077},
+            {"speed_kmh": 6.7943},
+            {"timestamp": "Thu Jun 20 18:51:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2480139},
+                {"longitude": 21.0946995}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 0.084},
+            {"speed_kmh": 6.7044},
+            {"timestamp": "Thu Jun 20 18:51:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2480489},
+                {"longitude": 21.0946423}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 0.089},
+            {"speed_kmh": 6.7044},
+            {"timestamp": "Thu Jun 20 18:51:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2481643},
+                {"longitude": 21.0943072}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 0.115},
+            {"speed_kmh": 10.1104},
+            {"timestamp": "Thu Jun 20 18:51:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2482513},
+                {"longitude": 21.093884}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 0.146},
+            {"speed_kmh": 11.1416},
+            {"timestamp": "Thu Jun 20 18:51:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2483648},
+                {"longitude": 21.0936255}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 0.168},
+            {"speed_kmh": 9.6737},
+            {"timestamp": "Thu Jun 20 18:51:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2483711},
+                {"longitude": 21.0932755}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 0.192},
+            {"speed_kmh": 9.0426},
+            {"timestamp": "Thu Jun 20 18:51:54 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2484993},
+                {"longitude": 21.0930368}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 0.213},
+            {"speed_kmh": 5.8524},
+            {"timestamp": "Thu Jun 20 18:52:04 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2486361},
+                {"longitude": 21.0926561}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 0.243},
+            {"speed_kmh": 11.1137},
+            {"timestamp": "Thu Jun 20 18:52:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2487679},
+                {"longitude": 21.0924187}
+            ]]},
+            {"altitude": 83.8},
+            {"distance_km": 0.265},
+            {"speed_kmh": 7.5905},
+            {"timestamp": "Thu Jun 20 18:52:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2488165},
+                {"longitude": 21.0920986}
+            ]]},
+            {"altitude": 83},
+            {"distance_km": 0.288},
+            {"speed_kmh": 6.7886},
+            {"timestamp": "Thu Jun 20 18:52:38 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2489681},
+                {"longitude": 21.0918575}
+            ]]},
+            {"altitude": 82.9},
+            {"distance_km": 0.311},
+            {"speed_kmh": 7.8673},
+            {"timestamp": "Thu Jun 20 18:52:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2491109},
+                {"longitude": 21.091757}
+            ]]},
+            {"altitude": 82.9},
+            {"distance_km": 0.329},
+            {"speed_kmh": 6.3963},
+            {"timestamp": "Thu Jun 20 18:52:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2492631},
+                {"longitude": 21.0917545}
+            ]]},
+            {"altitude": 82.9},
+            {"distance_km": 0.346},
+            {"speed_kmh": 10.5158},
+            {"timestamp": "Thu Jun 20 18:53:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.249355},
+                {"longitude": 21.0917613}
+            ]]},
+            {"altitude": 82.6},
+            {"distance_km": 0.356},
+            {"speed_kmh": 10.8665},
+            {"timestamp": "Thu Jun 20 18:53:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2494738},
+                {"longitude": 21.0916444}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 0.371},
+            {"speed_kmh": 8.4594},
+            {"timestamp": "Thu Jun 20 18:53:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2495594},
+                {"longitude": 21.0915116}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 0.384},
+            {"speed_kmh": 7.5287},
+            {"timestamp": "Thu Jun 20 18:53:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2496955},
+                {"longitude": 21.0912023}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 0.41},
+            {"speed_kmh": 9.1801},
+            {"timestamp": "Thu Jun 20 18:53:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2498127},
+                {"longitude": 21.0909238}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 0.433},
+            {"speed_kmh": 8.5213},
+            {"timestamp": "Thu Jun 20 18:53:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2498045},
+                {"longitude": 21.0905135}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 0.461},
+            {"speed_kmh": 10.205},
+            {"timestamp": "Thu Jun 20 18:53:51 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2498552},
+                {"longitude": 21.0902179}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 0.482},
+            {"speed_kmh": 7.7606},
+            {"timestamp": "Thu Jun 20 18:54:01 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2498679},
+                {"longitude": 21.0899924}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 0.498},
+            {"speed_kmh": 9.6485},
+            {"timestamp": "Thu Jun 20 18:54:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2498554},
+                {"longitude": 21.0898107}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 0.51},
+            {"speed_kmh": 8.782},
+            {"timestamp": "Thu Jun 20 18:54:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2498176},
+                {"longitude": 21.0896469}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 0.522},
+            {"speed_kmh": 8.6118},
+            {"timestamp": "Thu Jun 20 18:54:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2497352},
+                {"longitude": 21.08928}
+            ]]},
+            {"altitude": 81.7},
+            {"distance_km": 0.549},
+            {"speed_kmh": 11.9422},
+            {"timestamp": "Thu Jun 20 18:54:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2496988},
+                {"longitude": 21.0891275}
+            ]]},
+            {"altitude": 81.5},
+            {"distance_km": 0.56},
+            {"speed_kmh": 10.1478},
+            {"timestamp": "Thu Jun 20 18:54:30 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2496149},
+                {"longitude": 21.0889205}
+            ]]},
+            {"altitude": 81},
+            {"distance_km": 0.577},
+            {"speed_kmh": 8.3288},
+            {"timestamp": "Thu Jun 20 18:54:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2493809},
+                {"longitude": 21.0887703}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 0.605},
+            {"speed_kmh": 10.4865},
+            {"timestamp": "Thu Jun 20 18:54:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2493312},
+                {"longitude": 21.0887653}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 0.611},
+            {"speed_kmh": 9.2216},
+            {"timestamp": "Thu Jun 20 18:54:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2492672},
+                {"longitude": 21.08873}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 0.618},
+            {"speed_kmh": 9.2216},
+            {"timestamp": "Thu Jun 20 18:54:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2491795},
+                {"longitude": 21.088696}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 0.628},
+            {"speed_kmh": 9.1893},
+            {"timestamp": "Thu Jun 20 18:54:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2490838},
+                {"longitude": 21.0886501}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 0.639},
+            {"speed_kmh": 8.2503},
+            {"timestamp": "Thu Jun 20 18:55:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2489293},
+                {"longitude": 21.0885926}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 0.657},
+            {"speed_kmh": 7.0543},
+            {"timestamp": "Thu Jun 20 18:55:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2488187},
+                {"longitude": 21.0885965}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 0.669},
+            {"speed_kmh": 9.0267},
+            {"timestamp": "Thu Jun 20 18:55:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2486871},
+                {"longitude": 21.0886569}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 0.684},
+            {"speed_kmh": 10.0481},
+            {"timestamp": "Thu Jun 20 18:55:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2485919},
+                {"longitude": 21.0887064}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 0.696},
+            {"speed_kmh": 7.014},
+            {"timestamp": "Thu Jun 20 18:55:27 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2484082},
+                {"longitude": 21.0888822}
+            ]]},
+            {"altitude": 81.4},
+            {"distance_km": 0.719},
+            {"speed_kmh": 9.2951},
+            {"timestamp": "Thu Jun 20 18:55:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.248308},
+                {"longitude": 21.0889489}
+            ]]},
+            {"altitude": 81.8},
+            {"distance_km": 0.731},
+            {"speed_kmh": 7.8664},
+            {"timestamp": "Thu Jun 20 18:55:42 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2482194},
+                {"longitude": 21.0891559}
+            ]]},
+            {"altitude": 82.3},
+            {"distance_km": 0.749},
+            {"speed_kmh": 7.4357},
+            {"timestamp": "Thu Jun 20 18:55:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2482087},
+                {"longitude": 21.0894049}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 0.766},
+            {"speed_kmh": 10.9487},
+            {"timestamp": "Thu Jun 20 18:55:54 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2482093},
+                {"longitude": 21.089562}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 0.776},
+            {"speed_kmh": 10.0353},
+            {"timestamp": "Thu Jun 20 18:55:58 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2481695},
+                {"longitude": 21.0897127}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 0.788},
+            {"speed_kmh": 8.588},
+            {"timestamp": "Thu Jun 20 18:56:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2480974},
+                {"longitude": 21.0898179}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 0.798},
+            {"speed_kmh": 8.4025},
+            {"timestamp": "Thu Jun 20 18:56:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2480019},
+                {"longitude": 21.0900223}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 0.816},
+            {"speed_kmh": 10.2146},
+            {"timestamp": "Thu Jun 20 18:56:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479583},
+                {"longitude": 21.0902691}
+            ]]},
+            {"altitude": 82.3},
+            {"distance_km": 0.833},
+            {"speed_kmh": 9.4821},
+            {"timestamp": "Thu Jun 20 18:56:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479553},
+                {"longitude": 21.0903852}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 0.841},
+            {"speed_kmh": 8.3125},
+            {"timestamp": "Thu Jun 20 18:56:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479507},
+                {"longitude": 21.0904875}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 0.848},
+            {"speed_kmh": 10.6163},
+            {"timestamp": "Thu Jun 20 18:56:27 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479583},
+                {"longitude": 21.0905819}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 0.855},
+            {"speed_kmh": 10.6163},
+            {"timestamp": "Thu Jun 20 18:56:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479674},
+                {"longitude": 21.0906625}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 0.86},
+            {"speed_kmh": 10.6163},
+            {"timestamp": "Thu Jun 20 18:56:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2480026},
+                {"longitude": 21.0908196}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 0.872},
+            {"speed_kmh": 9.3605},
+            {"timestamp": "Thu Jun 20 18:56:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2480513},
+                {"longitude": 21.0909745}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 0.884},
+            {"speed_kmh": 8.9819},
+            {"timestamp": "Thu Jun 20 18:56:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2481335},
+                {"longitude": 21.09116}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 0.899},
+            {"speed_kmh": 10.0066},
+            {"timestamp": "Thu Jun 20 18:56:46 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2482042},
+                {"longitude": 21.0912728}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 0.91},
+            {"speed_kmh": 9.9069},
+            {"timestamp": "Thu Jun 20 18:56:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2482784},
+                {"longitude": 21.0913611}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 0.921},
+            {"speed_kmh": 8.5541},
+            {"timestamp": "Thu Jun 20 18:56:54 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2483631},
+                {"longitude": 21.09145}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 0.932},
+            {"speed_kmh": 8.7795},
+            {"timestamp": "Thu Jun 20 18:56:58 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.248497},
+                {"longitude": 21.091524}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 0.948},
+            {"speed_kmh": 6.2939},
+            {"timestamp": "Thu Jun 20 18:57:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2485988},
+                {"longitude": 21.0915802}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 0.96},
+            {"speed_kmh": 10.0157},
+            {"timestamp": "Thu Jun 20 18:57:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2486927},
+                {"longitude": 21.0915877}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 0.97},
+            {"speed_kmh": 10.4826},
+            {"timestamp": "Thu Jun 20 18:57:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2487904},
+                {"longitude": 21.0916466}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 0.982},
+            {"speed_kmh": 7.3072},
+            {"timestamp": "Thu Jun 20 18:57:19 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2488839},
+                {"longitude": 21.0916536}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 0.992},
+            {"speed_kmh": 7.2354},
+            {"timestamp": "Thu Jun 20 18:57:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.24898},
+                {"longitude": 21.0916651}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 1.003},
+            {"speed_kmh": 9.0579},
+            {"timestamp": "Thu Jun 20 18:57:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2490823},
+                {"longitude": 21.0916682}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 1.014},
+            {"speed_kmh": 9.2165},
+            {"timestamp": "Thu Jun 20 18:57:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2492296},
+                {"longitude": 21.0916374}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.031},
+            {"speed_kmh": 9.0903},
+            {"timestamp": "Thu Jun 20 18:57:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2492791},
+                {"longitude": 21.0916425}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.036},
+            {"speed_kmh": 8.5892},
+            {"timestamp": "Thu Jun 20 18:57:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2493304},
+                {"longitude": 21.09167}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.042},
+            {"speed_kmh": 8.5892},
+            {"timestamp": "Thu Jun 20 18:57:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2494769},
+                {"longitude": 21.0916633}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.058},
+            {"speed_kmh": 8.0524},
+            {"timestamp": "Thu Jun 20 18:57:51 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2496587},
+                {"longitude": 21.0914613}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.083},
+            {"speed_kmh": 9.3139},
+            {"timestamp": "Thu Jun 20 18:58:01 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2497814},
+                {"longitude": 21.0910201}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.116},
+            {"speed_kmh": 11.7286},
+            {"timestamp": "Thu Jun 20 18:58:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2498233},
+                {"longitude": 21.0905885}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.146},
+            {"speed_kmh": 9.098},
+            {"timestamp": "Thu Jun 20 18:58:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2498524},
+                {"longitude": 21.0902886}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.167},
+            {"speed_kmh": 9.7154},
+            {"timestamp": "Thu Jun 20 18:58:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.249867},
+                {"longitude": 21.0901314}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.177},
+            {"speed_kmh": 8.158},
+            {"timestamp": "Thu Jun 20 18:58:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2498535},
+                {"longitude": 21.0898936}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.194},
+            {"speed_kmh": 9.198},
+            {"timestamp": "Thu Jun 20 18:58:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2498682},
+                {"longitude": 21.0897348}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.205},
+            {"speed_kmh": 7.8099},
+            {"timestamp": "Thu Jun 20 18:58:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.249826},
+                {"longitude": 21.0895126}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.221},
+            {"speed_kmh": 9.5292},
+            {"timestamp": "Thu Jun 20 18:58:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2497564},
+                {"longitude": 21.0892655}
+            ]]},
+            {"altitude": 81.7},
+            {"distance_km": 1.239},
+            {"speed_kmh": 12.5563},
+            {"timestamp": "Thu Jun 20 18:58:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2497338},
+                {"longitude": 21.089181}
+            ]]},
+            {"altitude": 81.2},
+            {"distance_km": 1.246},
+            {"speed_kmh": 7.548},
+            {"timestamp": "Thu Jun 20 18:59:00 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2497066},
+                {"longitude": 21.0891207}
+            ]]},
+            {"altitude": 81.2},
+            {"distance_km": 1.251},
+            {"speed_kmh": 7.548},
+            {"timestamp": "Thu Jun 20 18:59:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2496333},
+                {"longitude": 21.0889584}
+            ]]},
+            {"altitude": 81},
+            {"distance_km": 1.264},
+            {"speed_kmh": 9.522},
+            {"timestamp": "Thu Jun 20 18:59:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2495053},
+                {"longitude": 21.0888046}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 1.282},
+            {"speed_kmh": 10.458},
+            {"timestamp": "Thu Jun 20 18:59:13 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2493052},
+                {"longitude": 21.0887145}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 1.305},
+            {"speed_kmh": 9.2376},
+            {"timestamp": "Thu Jun 20 18:59:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2492085},
+                {"longitude": 21.0886675}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 1.316},
+            {"speed_kmh": 9.0985},
+            {"timestamp": "Thu Jun 20 18:59:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2490541},
+                {"longitude": 21.0886787}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 1.334},
+            {"speed_kmh": 9.317},
+            {"timestamp": "Thu Jun 20 18:59:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2489034},
+                {"longitude": 21.0886336}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 1.351},
+            {"speed_kmh": 9.8613},
+            {"timestamp": "Thu Jun 20 18:59:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.24881},
+                {"longitude": 21.0886232}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 1.361},
+            {"speed_kmh": 7.8337},
+            {"timestamp": "Thu Jun 20 18:59:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2486749},
+                {"longitude": 21.0886742}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 1.377},
+            {"speed_kmh": 7.4229},
+            {"timestamp": "Thu Jun 20 18:59:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2485847},
+                {"longitude": 21.0887219}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 1.387},
+            {"speed_kmh": 8.1647},
+            {"timestamp": "Thu Jun 20 18:59:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2484112},
+                {"longitude": 21.0889073}
+            ]]},
+            {"altitude": 81.5},
+            {"distance_km": 1.41},
+            {"speed_kmh": 9.2334},
+            {"timestamp": "Thu Jun 20 19:00:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2483209},
+                {"longitude": 21.0889235}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.42},
+            {"speed_kmh": 11.7427},
+            {"timestamp": "Thu Jun 20 19:00:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2482377},
+                {"longitude": 21.0890545}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 1.433},
+            {"speed_kmh": 9.9101},
+            {"timestamp": "Thu Jun 20 19:00:13 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2481873},
+                {"longitude": 21.0892861}
+            ]]},
+            {"altitude": 82.3},
+            {"distance_km": 1.45},
+            {"speed_kmh": 8.7208},
+            {"timestamp": "Thu Jun 20 19:00:20 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2481802},
+                {"longitude": 21.0894823}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 1.463},
+            {"speed_kmh": 9.8596},
+            {"timestamp": "Thu Jun 20 19:00:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2481524},
+                {"longitude": 21.0896507}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 1.475},
+            {"speed_kmh": 9.4008},
+            {"timestamp": "Thu Jun 20 19:00:30 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.248036},
+                {"longitude": 21.0898285}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 1.493},
+            {"speed_kmh": 10.1308},
+            {"timestamp": "Thu Jun 20 19:00:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479952},
+                {"longitude": 21.0899107}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 1.5},
+            {"speed_kmh": 8.151},
+            {"timestamp": "Thu Jun 20 19:00:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479683},
+                {"longitude": 21.0900115}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 1.508},
+            {"speed_kmh": 8.151},
+            {"timestamp": "Thu Jun 20 19:00:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479393},
+                {"longitude": 21.0902185}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 1.522},
+            {"speed_kmh": 8.7694},
+            {"timestamp": "Thu Jun 20 19:00:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479424},
+                {"longitude": 21.0904705}
+            ]]},
+            {"altitude": 82.3},
+            {"distance_km": 1.539},
+            {"speed_kmh": 9.9717},
+            {"timestamp": "Thu Jun 20 19:00:54 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479492},
+                {"longitude": 21.0906582}
+            ]]},
+            {"altitude": 82.3},
+            {"distance_km": 1.552},
+            {"speed_kmh": 9.6811},
+            {"timestamp": "Thu Jun 20 19:00:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479827},
+                {"longitude": 21.0908184}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 1.564},
+            {"speed_kmh": 9.0309},
+            {"timestamp": "Thu Jun 20 19:01:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2480062},
+                {"longitude": 21.0908935}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 1.57},
+            {"speed_kmh": 8.9141},
+            {"timestamp": "Thu Jun 20 19:01:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2480236},
+                {"longitude": 21.0909611}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 1.575},
+            {"speed_kmh": 8.9141},
+            {"timestamp": "Thu Jun 20 19:01:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2480938},
+                {"longitude": 21.0910794}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 1.586},
+            {"speed_kmh": 9.0406},
+            {"timestamp": "Thu Jun 20 19:01:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2481868},
+                {"longitude": 21.091279}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 1.603},
+            {"speed_kmh": 11.3189},
+            {"timestamp": "Thu Jun 20 19:01:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2483013},
+                {"longitude": 21.0914205}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 1.619},
+            {"speed_kmh": 9.0276},
+            {"timestamp": "Thu Jun 20 19:01:24 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2484336},
+                {"longitude": 21.0915147}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 1.635},
+            {"speed_kmh": 8.6882},
+            {"timestamp": "Thu Jun 20 19:01:30 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2485632},
+                {"longitude": 21.0915627}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 1.65},
+            {"speed_kmh": 9.2753},
+            {"timestamp": "Thu Jun 20 19:01:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2486569},
+                {"longitude": 21.0915965}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 1.66},
+            {"speed_kmh": 9.5137},
+            {"timestamp": "Thu Jun 20 19:01:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2487717},
+                {"longitude": 21.0916546}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 1.674},
+            {"speed_kmh": 9.3359},
+            {"timestamp": "Thu Jun 20 19:01:46 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2488648},
+                {"longitude": 21.0916895}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 1.684},
+            {"speed_kmh": 8.0492},
+            {"timestamp": "Thu Jun 20 19:01:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2490096},
+                {"longitude": 21.0917169}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 1.701},
+            {"speed_kmh": 7.478},
+            {"timestamp": "Thu Jun 20 19:01:58 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2491049},
+                {"longitude": 21.0917188}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.711},
+            {"speed_kmh": 8.0921},
+            {"timestamp": "Thu Jun 20 19:02:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2492216},
+                {"longitude": 21.0916949}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.724},
+            {"speed_kmh": 10.438},
+            {"timestamp": "Thu Jun 20 19:02:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2493176},
+                {"longitude": 21.0917042}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.735},
+            {"speed_kmh": 9.477},
+            {"timestamp": "Thu Jun 20 19:02:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2494242},
+                {"longitude": 21.0916961}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.747},
+            {"speed_kmh": 9.016},
+            {"timestamp": "Thu Jun 20 19:02:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2495292},
+                {"longitude": 21.0916094}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.76},
+            {"speed_kmh": 8.8535},
+            {"timestamp": "Thu Jun 20 19:02:20 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2495855},
+                {"longitude": 21.0914754}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.771},
+            {"speed_kmh": 9.0242},
+            {"timestamp": "Thu Jun 20 19:02:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2496373},
+                {"longitude": 21.0913472}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.782},
+            {"speed_kmh": 8.8653},
+            {"timestamp": "Thu Jun 20 19:02:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2497002},
+                {"longitude": 21.0911661}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.796},
+            {"speed_kmh": 8.3517},
+            {"timestamp": "Thu Jun 20 19:02:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2497272},
+                {"longitude": 21.091101}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.801},
+            {"speed_kmh": 9.094},
+            {"timestamp": "Thu Jun 20 19:02:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2497527},
+                {"longitude": 21.0909968}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.809},
+            {"speed_kmh": 9.094},
+            {"timestamp": "Thu Jun 20 19:02:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.249782},
+                {"longitude": 21.0908645}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.819},
+            {"speed_kmh": 10.0357},
+            {"timestamp": "Thu Jun 20 19:02:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2498161},
+                {"longitude": 21.0906123}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.836},
+            {"speed_kmh": 9.1054},
+            {"timestamp": "Thu Jun 20 19:02:51 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2498629},
+                {"longitude": 21.0903717}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.853},
+            {"speed_kmh": 9.7025},
+            {"timestamp": "Thu Jun 20 19:02:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2498763},
+                {"longitude": 21.0902062}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.865},
+            {"speed_kmh": 9.2768},
+            {"timestamp": "Thu Jun 20 19:03:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2499001},
+                {"longitude": 21.0900067}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.879},
+            {"speed_kmh": 7.9826},
+            {"timestamp": "Thu Jun 20 19:03:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2499134},
+                {"longitude": 21.0897699}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.895},
+            {"speed_kmh": 9.2547},
+            {"timestamp": "Thu Jun 20 19:03:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2498652},
+                {"longitude": 21.0896453}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.905},
+            {"speed_kmh": 9.8065},
+            {"timestamp": "Thu Jun 20 19:03:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2498002},
+                {"longitude": 21.0894542}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 1.92},
+            {"speed_kmh": 12.4262},
+            {"timestamp": "Thu Jun 20 19:03:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2497505},
+                {"longitude": 21.0892948}
+            ]]},
+            {"altitude": 81.8},
+            {"distance_km": 1.932},
+            {"speed_kmh": 10.8505},
+            {"timestamp": "Thu Jun 20 19:03:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2497052},
+                {"longitude": 21.089062}
+            ]]},
+            {"altitude": 81.3},
+            {"distance_km": 1.949},
+            {"speed_kmh": 9.0443},
+            {"timestamp": "Thu Jun 20 19:03:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2497144},
+                {"longitude": 21.0889621}
+            ]]},
+            {"altitude": 81},
+            {"distance_km": 1.956},
+            {"speed_kmh": 11.5143},
+            {"timestamp": "Thu Jun 20 19:03:34 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2497374},
+                {"longitude": 21.0888814}
+            ]]},
+            {"altitude": 81},
+            {"distance_km": 1.962},
+            {"speed_kmh": 11.5143},
+            {"timestamp": "Thu Jun 20 19:03:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2497632},
+                {"longitude": 21.0888169}
+            ]]},
+            {"altitude": 81},
+            {"distance_km": 1.967},
+            {"speed_kmh": 11.5143},
+            {"timestamp": "Thu Jun 20 19:03:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.249869},
+                {"longitude": 21.0887031}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 1.981},
+            {"speed_kmh": 9.9505},
+            {"timestamp": "Thu Jun 20 19:03:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.249969},
+                {"longitude": 21.0886434}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 1.993},
+            {"speed_kmh": 8.3236},
+            {"timestamp": "Thu Jun 20 19:03:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2500483},
+                {"longitude": 21.0885702}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 2.003},
+            {"speed_kmh": 9.1472},
+            {"timestamp": "Thu Jun 20 19:03:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2500705},
+                {"longitude": 21.0883893}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 2.016},
+            {"speed_kmh": 7.7866},
+            {"timestamp": "Thu Jun 20 19:03:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2500612},
+                {"longitude": 21.0883127}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 2.021},
+            {"speed_kmh": 7.3266},
+            {"timestamp": "Thu Jun 20 19:04:00 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2500721},
+                {"longitude": 21.088123}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 2.034},
+            {"speed_kmh": 8.7513},
+            {"timestamp": "Thu Jun 20 19:04:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2500829},
+                {"longitude": 21.0879504}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 2.046},
+            {"speed_kmh": 9.5661},
+            {"timestamp": "Thu Jun 20 19:04:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501003},
+                {"longitude": 21.0877715}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 2.058},
+            {"speed_kmh": 9.6836},
+            {"timestamp": "Thu Jun 20 19:04:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501111},
+                {"longitude": 21.0876228}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 2.069},
+            {"speed_kmh": 9.477},
+            {"timestamp": "Thu Jun 20 19:04:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501228},
+                {"longitude": 21.0874142}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 2.083},
+            {"speed_kmh": 9.8157},
+            {"timestamp": "Thu Jun 20 19:04:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501384},
+                {"longitude": 21.0873076}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 2.09},
+            {"speed_kmh": 8.8264},
+            {"timestamp": "Thu Jun 20 19:04:27 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501368},
+                {"longitude": 21.0872037}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 2.097},
+            {"speed_kmh": 8.8264},
+            {"timestamp": "Thu Jun 20 19:04:30 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501391},
+                {"longitude": 21.0871169}
+            ]]},
+            {"altitude": 81},
+            {"distance_km": 2.103},
+            {"speed_kmh": 9.7864},
+            {"timestamp": "Thu Jun 20 19:04:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501434},
+                {"longitude": 21.0870225}
+            ]]},
+            {"altitude": 81},
+            {"distance_km": 2.11},
+            {"speed_kmh": 9.7864},
+            {"timestamp": "Thu Jun 20 19:04:34 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.250166},
+                {"longitude": 21.0868554}
+            ]]},
+            {"altitude": 81.2},
+            {"distance_km": 2.121},
+            {"speed_kmh": 9.6028},
+            {"timestamp": "Thu Jun 20 19:04:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501717},
+                {"longitude": 21.0866891}
+            ]]},
+            {"altitude": 81.7},
+            {"distance_km": 2.133},
+            {"speed_kmh": 9.5058},
+            {"timestamp": "Thu Jun 20 19:04:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501819},
+                {"longitude": 21.0864501}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 2.149},
+            {"speed_kmh": 9.0088},
+            {"timestamp": "Thu Jun 20 19:04:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501954},
+                {"longitude": 21.0862192}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 2.165},
+            {"speed_kmh": 10.9541},
+            {"timestamp": "Thu Jun 20 19:04:55 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501962},
+                {"longitude": 21.086119}
+            ]]},
+            {"altitude": 82.9},
+            {"distance_km": 2.172},
+            {"speed_kmh": 8.5067},
+            {"timestamp": "Thu Jun 20 19:04:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501962},
+                {"longitude": 21.086119}
+            ]]},
+            {"distance_km": 2.172},
+            {"timestamp": "Thu Jun 20 19:04:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501962},
+                {"longitude": 21.086119}
+            ]]},
+            {"distance_km": 2.172},
+            {"timestamp": "Thu Jun 20 19:05:04 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502303},
+                {"longitude": 21.085724}
+            ]]},
+            {"altitude": 82.9},
+            {"distance_km": 2.178},
+            {"speed_kmh": 7.872},
+            {"timestamp": "Thu Jun 20 19:05:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502191},
+                {"longitude": 21.0856154}
+            ]]},
+            {"altitude": 82.9},
+            {"distance_km": 2.185},
+            {"speed_kmh": 7.872},
+            {"timestamp": "Thu Jun 20 19:05:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502038},
+                {"longitude": 21.0854421}
+            ]]},
+            {"altitude": 83.1},
+            {"distance_km": 2.197},
+            {"speed_kmh": 10.6747},
+            {"timestamp": "Thu Jun 20 19:05:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502144},
+                {"longitude": 21.0851868}
+            ]]},
+            {"altitude": 83.2},
+            {"distance_km": 2.214},
+            {"speed_kmh": 8.5541},
+            {"timestamp": "Thu Jun 20 19:05:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502303},
+                {"longitude": 21.0850398}
+            ]]},
+            {"altitude": 83.6},
+            {"distance_km": 2.225},
+            {"speed_kmh": 10.3901},
+            {"timestamp": "Thu Jun 20 19:05:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.250228},
+                {"longitude": 21.0848071}
+            ]]},
+            {"altitude": 83.7},
+            {"distance_km": 2.241},
+            {"speed_kmh": 12.299},
+            {"timestamp": "Thu Jun 20 19:05:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502278},
+                {"longitude": 21.0846501}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.251},
+            {"speed_kmh": 11.8362},
+            {"timestamp": "Thu Jun 20 19:05:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501616},
+                {"longitude": 21.0845459}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.262},
+            {"speed_kmh": 1.1665},
+            {"timestamp": "Thu Jun 20 19:05:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502115},
+                {"longitude": 21.0843985}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.273},
+            {"speed_kmh": 4.4451},
+            {"timestamp": "Thu Jun 20 19:06:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.250219},
+                {"longitude": 21.0839254}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.305},
+            {"speed_kmh": 12.9279},
+            {"timestamp": "Thu Jun 20 19:06:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502648},
+                {"longitude": 21.0836313}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.326},
+            {"speed_kmh": 7.5598},
+            {"timestamp": "Thu Jun 20 19:06:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502484},
+                {"longitude": 21.0832616}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.351},
+            {"speed_kmh": 9.6066},
+            {"timestamp": "Thu Jun 20 19:06:38 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2503354},
+                {"longitude": 21.0829016}
+            ]]},
+            {"altitude": 83.8},
+            {"distance_km": 2.378},
+            {"speed_kmh": 9.6659},
+            {"timestamp": "Thu Jun 20 19:06:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2503388},
+                {"longitude": 21.0825076}
+            ]]},
+            {"altitude": 83.8},
+            {"distance_km": 2.405},
+            {"speed_kmh": 9.9896},
+            {"timestamp": "Thu Jun 20 19:06:58 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2503315},
+                {"longitude": 21.0821435}
+            ]]},
+            {"altitude": 83.8},
+            {"distance_km": 2.43},
+            {"speed_kmh": 10.0144},
+            {"timestamp": "Thu Jun 20 19:07:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2503669},
+                {"longitude": 21.0818247}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.452},
+            {"speed_kmh": 8.526},
+            {"timestamp": "Thu Jun 20 19:07:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2503507},
+                {"longitude": 21.0813687}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.483},
+            {"speed_kmh": 12.4785},
+            {"timestamp": "Thu Jun 20 19:07:27 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2503594},
+                {"longitude": 21.081019}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.507},
+            {"speed_kmh": 8.521},
+            {"timestamp": "Thu Jun 20 19:07:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2504649},
+                {"longitude": 21.080715}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.531},
+            {"speed_kmh": 8.3519},
+            {"timestamp": "Thu Jun 20 19:07:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.250449},
+                {"longitude": 21.0802648}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.561},
+            {"speed_kmh": 10.7237},
+            {"timestamp": "Thu Jun 20 19:07:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2503763},
+                {"longitude": 21.0799629}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.584},
+            {"speed_kmh": 8.8019},
+            {"timestamp": "Thu Jun 20 19:08:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2504494},
+                {"longitude": 21.0796843}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.604},
+            {"speed_kmh": 8.1761},
+            {"timestamp": "Thu Jun 20 19:08:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2504204},
+                {"longitude": 21.0793535}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.627},
+            {"speed_kmh": 6.6255},
+            {"timestamp": "Thu Jun 20 19:08:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2503539},
+                {"longitude": 21.0790576}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.649},
+            {"speed_kmh": 8.1093},
+            {"timestamp": "Thu Jun 20 19:08:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2503657},
+                {"longitude": 21.0786898}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.674},
+            {"speed_kmh": 8.6718},
+            {"timestamp": "Thu Jun 20 19:08:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2503048},
+                {"longitude": 21.0782034}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.708},
+            {"speed_kmh": 12.1813},
+            {"timestamp": "Thu Jun 20 19:09:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502823},
+                {"longitude": 21.0775961}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.749},
+            {"speed_kmh": 20.05},
+            {"timestamp": "Thu Jun 20 19:09:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502358},
+                {"longitude": 21.0772947}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 2.771},
+            {"speed_kmh": 9.1793},
+            {"timestamp": "Thu Jun 20 19:09:24 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502341},
+                {"longitude": 21.0769432}
+            ]]},
+            {"altitude": 83.8},
+            {"distance_km": 2.795},
+            {"speed_kmh": 7.1983},
+            {"timestamp": "Thu Jun 20 19:09:34 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501908},
+                {"longitude": 21.0765066}
+            ]]},
+            {"altitude": 82.9},
+            {"distance_km": 2.825},
+            {"speed_kmh": 11.2557},
+            {"timestamp": "Thu Jun 20 19:09:44 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501413},
+                {"longitude": 21.0759642}
+            ]]},
+            {"altitude": 82.9},
+            {"distance_km": 2.862},
+            {"speed_kmh": 14.9824},
+            {"timestamp": "Thu Jun 20 19:09:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2500927},
+                {"longitude": 21.0755181}
+            ]]},
+            {"altitude": 82.5},
+            {"distance_km": 2.893},
+            {"speed_kmh": 11.1142},
+            {"timestamp": "Thu Jun 20 19:10:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2500319},
+                {"longitude": 21.0752181}
+            ]]},
+            {"altitude": 82.5},
+            {"distance_km": 2.915},
+            {"speed_kmh": 7.5088},
+            {"timestamp": "Thu Jun 20 19:10:13 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2500457},
+                {"longitude": 21.0748676}
+            ]]},
+            {"altitude": 82.5},
+            {"distance_km": 2.939},
+            {"speed_kmh": 9.7057},
+            {"timestamp": "Thu Jun 20 19:10:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2499164},
+                {"longitude": 21.0745147}
+            ]]},
+            {"altitude": 82.5},
+            {"distance_km": 2.967},
+            {"speed_kmh": 9.7048},
+            {"timestamp": "Thu Jun 20 19:10:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2496412},
+                {"longitude": 21.0745961}
+            ]]},
+            {"altitude": 82.6},
+            {"distance_km": 2.998},
+            {"speed_kmh": 12.4474},
+            {"timestamp": "Thu Jun 20 19:10:42 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2493946},
+                {"longitude": 21.0745654}
+            ]]},
+            {"altitude": 82.7},
+            {"distance_km": 3.025},
+            {"speed_kmh": 10.131},
+            {"timestamp": "Thu Jun 20 19:10:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2491895},
+                {"longitude": 21.0745889}
+            ]]},
+            {"altitude": 82.9},
+            {"distance_km": 3.048},
+            {"speed_kmh": 8.2802},
+            {"timestamp": "Thu Jun 20 19:11:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2489677},
+                {"longitude": 21.0746479}
+            ]]},
+            {"altitude": 83.5},
+            {"distance_km": 3.073},
+            {"speed_kmh": 9.5301},
+            {"timestamp": "Thu Jun 20 19:11:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2487645},
+                {"longitude": 21.0745732}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 3.096},
+            {"speed_kmh": 8.2526},
+            {"timestamp": "Thu Jun 20 19:11:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2485113},
+                {"longitude": 21.0745962}
+            ]]},
+            {"altitude": 84.7},
+            {"distance_km": 3.125},
+            {"speed_kmh": 10.5449},
+            {"timestamp": "Thu Jun 20 19:11:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.248222},
+                {"longitude": 21.0746759}
+            ]]},
+            {"altitude": 84.8},
+            {"distance_km": 3.157},
+            {"speed_kmh": 11.0595},
+            {"timestamp": "Thu Jun 20 19:11:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479481},
+                {"longitude": 21.0745758}
+            ]]},
+            {"altitude": 84.8},
+            {"distance_km": 3.189},
+            {"speed_kmh": 12.4927},
+            {"timestamp": "Thu Jun 20 19:11:51 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2477744},
+                {"longitude": 21.0743912}
+            ]]},
+            {"altitude": 84.8},
+            {"distance_km": 3.212},
+            {"speed_kmh": 8.4439},
+            {"timestamp": "Thu Jun 20 19:12:01 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2476558},
+                {"longitude": 21.0741573}
+            ]]},
+            {"altitude": 84.4},
+            {"distance_km": 3.232},
+            {"speed_kmh": 7.0844},
+            {"timestamp": "Thu Jun 20 19:12:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2477053},
+                {"longitude": 21.0738031}
+            ]]},
+            {"altitude": 83.6},
+            {"distance_km": 3.257},
+            {"speed_kmh": 8.5498},
+            {"timestamp": "Thu Jun 20 19:12:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2477078},
+                {"longitude": 21.0734167}
+            ]]},
+            {"altitude": 82.9},
+            {"distance_km": 3.284},
+            {"speed_kmh": 9.6794},
+            {"timestamp": "Thu Jun 20 19:12:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2477089},
+                {"longitude": 21.0729713}
+            ]]},
+            {"altitude": 82.5},
+            {"distance_km": 3.314},
+            {"speed_kmh": 10.8782},
+            {"timestamp": "Thu Jun 20 19:12:42 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.247776},
+                {"longitude": 21.0725919}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 3.341},
+            {"speed_kmh": 10.3145},
+            {"timestamp": "Thu Jun 20 19:12:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2478392},
+                {"longitude": 21.0722478}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 3.365},
+            {"speed_kmh": 8.8945},
+            {"timestamp": "Thu Jun 20 19:13:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2478164},
+                {"longitude": 21.0721794}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 3.371},
+            {"speed_kmh": 5.9138},
+            {"timestamp": "Thu Jun 20 19:13:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2477606},
+                {"longitude": 21.0721614}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 3.377},
+            {"speed_kmh": 5.9138},
+            {"timestamp": "Thu Jun 20 19:13:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2476961},
+                {"longitude": 21.0720575}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 3.387},
+            {"speed_kmh": 8.1169},
+            {"timestamp": "Thu Jun 20 19:13:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.247599},
+                {"longitude": 21.0719873}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 3.399},
+            {"speed_kmh": 11.5619},
+            {"timestamp": "Thu Jun 20 19:13:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.247512},
+                {"longitude": 21.0719312}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 3.409},
+            {"speed_kmh": 11.0688},
+            {"timestamp": "Thu Jun 20 19:13:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2474644},
+                {"longitude": 21.0719367}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 3.415},
+            {"speed_kmh": 11.0688},
+            {"timestamp": "Thu Jun 20 19:13:19 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2473508},
+                {"longitude": 21.071934}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 3.427},
+            {"speed_kmh": 11.1433},
+            {"timestamp": "Thu Jun 20 19:13:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2471857},
+                {"longitude": 21.0719402}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.446},
+            {"speed_kmh": 10.8195},
+            {"timestamp": "Thu Jun 20 19:13:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2470718},
+                {"longitude": 21.071932}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.458},
+            {"speed_kmh": 9.5673},
+            {"timestamp": "Thu Jun 20 19:13:34 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2469456},
+                {"longitude": 21.0719394}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.473},
+            {"speed_kmh": 9.8154},
+            {"timestamp": "Thu Jun 20 19:13:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2468707},
+                {"longitude": 21.0719015}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.481},
+            {"speed_kmh": 8.834},
+            {"timestamp": "Thu Jun 20 19:13:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2466174},
+                {"longitude": 21.0718038}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.51},
+            {"speed_kmh": 10.7665},
+            {"timestamp": "Thu Jun 20 19:13:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463833},
+                {"longitude": 21.0718328}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.536},
+            {"speed_kmh": 10.5103},
+            {"timestamp": "Thu Jun 20 19:14:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463144},
+                {"longitude": 21.0719169}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.546},
+            {"speed_kmh": 9.2991},
+            {"timestamp": "Thu Jun 20 19:14:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463206},
+                {"longitude": 21.0720103}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.552},
+            {"speed_kmh": 9.2991},
+            {"timestamp": "Thu Jun 20 19:14:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.246344},
+                {"longitude": 21.0720791}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.558},
+            {"speed_kmh": 9.2991},
+            {"timestamp": "Thu Jun 20 19:14:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463908},
+                {"longitude": 21.0721236}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.564},
+            {"speed_kmh": 11.3577},
+            {"timestamp": "Thu Jun 20 19:14:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464011},
+                {"longitude": 21.0722003}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.569},
+            {"speed_kmh": 11.3577},
+            {"timestamp": "Thu Jun 20 19:14:13 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464282},
+                {"longitude": 21.0722889}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.576},
+            {"speed_kmh": 11.3577},
+            {"timestamp": "Thu Jun 20 19:14:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.246462},
+                {"longitude": 21.0723451}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.581},
+            {"speed_kmh": 11.8468},
+            {"timestamp": "Thu Jun 20 19:14:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464683},
+                {"longitude": 21.0724513}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.589},
+            {"speed_kmh": 11.8468},
+            {"timestamp": "Thu Jun 20 19:14:19 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464358},
+                {"longitude": 21.0728457}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.616},
+            {"speed_kmh": 9.7091},
+            {"timestamp": "Thu Jun 20 19:14:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463906},
+                {"longitude": 21.0731364}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.636},
+            {"speed_kmh": 10.5318},
+            {"timestamp": "Thu Jun 20 19:14:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.246371},
+                {"longitude": 21.0734178}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.656},
+            {"speed_kmh": 10.8877},
+            {"timestamp": "Thu Jun 20 19:14:42 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463916},
+                {"longitude": 21.0735917}
+            ]]},
+            {"altitude": 81.6},
+            {"distance_km": 3.668},
+            {"speed_kmh": 10.1733},
+            {"timestamp": "Thu Jun 20 19:14:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464353},
+                {"longitude": 21.073742}
+            ]]},
+            {"altitude": 81.6},
+            {"distance_km": 3.679},
+            {"speed_kmh": 9.819},
+            {"timestamp": "Thu Jun 20 19:14:51 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464134},
+                {"longitude": 21.0739293}
+            ]]},
+            {"altitude": 81.6},
+            {"distance_km": 3.692},
+            {"speed_kmh": 9.2743},
+            {"timestamp": "Thu Jun 20 19:14:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463577},
+                {"longitude": 21.0741497}
+            ]]},
+            {"altitude": 81.6},
+            {"distance_km": 3.708},
+            {"speed_kmh": 9.3385},
+            {"timestamp": "Thu Jun 20 19:15:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463635},
+                {"longitude": 21.0742402}
+            ]]},
+            {"altitude": 81.5},
+            {"distance_km": 3.714},
+            {"speed_kmh": 7.9398},
+            {"timestamp": "Thu Jun 20 19:15:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463918},
+                {"longitude": 21.0743243}
+            ]]},
+            {"altitude": 81.5},
+            {"distance_km": 3.721},
+            {"speed_kmh": 7.9398},
+            {"timestamp": "Thu Jun 20 19:15:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2465538},
+                {"longitude": 21.0743274}
+            ]]},
+            {"altitude": 81.4},
+            {"distance_km": 3.739},
+            {"speed_kmh": 9.512},
+            {"timestamp": "Thu Jun 20 19:15:13 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2466698},
+                {"longitude": 21.0743376}
+            ]]},
+            {"altitude": 81.3},
+            {"distance_km": 3.752},
+            {"speed_kmh": 11.9548},
+            {"timestamp": "Thu Jun 20 19:15:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2467964},
+                {"longitude": 21.0743569}
+            ]]},
+            {"altitude": 81.5},
+            {"distance_km": 3.766},
+            {"speed_kmh": 10.8279},
+            {"timestamp": "Thu Jun 20 19:15:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2469092},
+                {"longitude": 21.0743516}
+            ]]},
+            {"altitude": 81.6},
+            {"distance_km": 3.779},
+            {"speed_kmh": 10.6602},
+            {"timestamp": "Thu Jun 20 19:15:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2470448},
+                {"longitude": 21.0743821}
+            ]]},
+            {"altitude": 81.8},
+            {"distance_km": 3.794},
+            {"speed_kmh": 8.8289},
+            {"timestamp": "Thu Jun 20 19:15:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.247211},
+                {"longitude": 21.0743401}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.813},
+            {"speed_kmh": 9.0866},
+            {"timestamp": "Thu Jun 20 19:15:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2473216},
+                {"longitude": 21.0743342}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.825},
+            {"speed_kmh": 10.4377},
+            {"timestamp": "Thu Jun 20 19:15:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2474434},
+                {"longitude": 21.0743287}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.838},
+            {"speed_kmh": 9.0173},
+            {"timestamp": "Thu Jun 20 19:15:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2475045},
+                {"longitude": 21.0743114}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.845},
+            {"speed_kmh": 10.183},
+            {"timestamp": "Thu Jun 20 19:15:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2475647},
+                {"longitude": 21.0742706}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.853},
+            {"speed_kmh": 10.183},
+            {"timestamp": "Thu Jun 20 19:15:54 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2476579},
+                {"longitude": 21.0739578}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.876},
+            {"speed_kmh": 9.4972},
+            {"timestamp": "Thu Jun 20 19:16:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2476914},
+                {"longitude": 21.0737172}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.893},
+            {"speed_kmh": 12.4388},
+            {"timestamp": "Thu Jun 20 19:16:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2476857},
+                {"longitude": 21.0733011}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.922},
+            {"speed_kmh": 10.6188},
+            {"timestamp": "Thu Jun 20 19:16:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2476712},
+                {"longitude": 21.0730841}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.937},
+            {"speed_kmh": 13.1454},
+            {"timestamp": "Thu Jun 20 19:16:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.247674},
+                {"longitude": 21.072902}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.949},
+            {"speed_kmh": 11.9008},
+            {"timestamp": "Thu Jun 20 19:16:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2477814},
+                {"longitude": 21.072618}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.972},
+            {"speed_kmh": 9.114},
+            {"timestamp": "Thu Jun 20 19:16:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2477902},
+                {"longitude": 21.0724579}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.983},
+            {"speed_kmh": 10.9099},
+            {"timestamp": "Thu Jun 20 19:16:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2477965},
+                {"longitude": 21.0723426}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.991},
+            {"speed_kmh": 9.6179},
+            {"timestamp": "Thu Jun 20 19:16:42 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2478096},
+                {"longitude": 21.072269}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 3.996},
+            {"speed_kmh": 9.6179},
+            {"timestamp": "Thu Jun 20 19:16:44 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2478232},
+                {"longitude": 21.0721628}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 4.003},
+            {"speed_kmh": 4.9853},
+            {"timestamp": "Thu Jun 20 19:16:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2475608},
+                {"longitude": 21.0719678}
+            ]]},
+            {"altitude": 82.3},
+            {"distance_km": 4.035},
+            {"speed_kmh": 12.6501},
+            {"timestamp": "Thu Jun 20 19:16:58 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2473686},
+                {"longitude": 21.0719204}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 4.057},
+            {"speed_kmh": 9.5408},
+            {"timestamp": "Thu Jun 20 19:17:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.247226},
+                {"longitude": 21.0719309}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.073},
+            {"speed_kmh": 10.0683},
+            {"timestamp": "Thu Jun 20 19:17:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.247073},
+                {"longitude": 21.071906}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.09},
+            {"speed_kmh": 9.9896},
+            {"timestamp": "Thu Jun 20 19:17:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.246807},
+                {"longitude": 21.0719311}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.12},
+            {"speed_kmh": 10.4897},
+            {"timestamp": "Thu Jun 20 19:17:27 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2465574},
+                {"longitude": 21.0717924}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.149},
+            {"speed_kmh": 11.2633},
+            {"timestamp": "Thu Jun 20 19:17:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463527},
+                {"longitude": 21.0717547}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.172},
+            {"speed_kmh": 11.6444},
+            {"timestamp": "Thu Jun 20 19:17:44 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463601},
+                {"longitude": 21.0719979}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.189},
+            {"speed_kmh": 8.5864},
+            {"timestamp": "Thu Jun 20 19:17:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464282},
+                {"longitude": 21.0722092}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.205},
+            {"speed_kmh": 12.0774},
+            {"timestamp": "Thu Jun 20 19:17:54 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464504},
+                {"longitude": 21.0723712}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.216},
+            {"speed_kmh": 10.3794},
+            {"timestamp": "Thu Jun 20 19:17:58 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.246455},
+                {"longitude": 21.0724571}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.222},
+            {"speed_kmh": 9.5714},
+            {"timestamp": "Thu Jun 20 19:18:00 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464533},
+                {"longitude": 21.0725418}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.228},
+            {"speed_kmh": 9.5714},
+            {"timestamp": "Thu Jun 20 19:18:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464397},
+                {"longitude": 21.0726363}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.235},
+            {"speed_kmh": 9.069},
+            {"timestamp": "Thu Jun 20 19:18:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464391},
+                {"longitude": 21.0727378}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.241},
+            {"speed_kmh": 9.069},
+            {"timestamp": "Thu Jun 20 19:18:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463586},
+                {"longitude": 21.0731468}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.271},
+            {"speed_kmh": 11.5433},
+            {"timestamp": "Thu Jun 20 19:18:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463413},
+                {"longitude": 21.0733199}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.283},
+            {"speed_kmh": 11.8808},
+            {"timestamp": "Thu Jun 20 19:18:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.246408},
+                {"longitude": 21.0736249}
+            ]]},
+            {"altitude": 81.5},
+            {"distance_km": 4.305},
+            {"speed_kmh": 11.6005},
+            {"timestamp": "Thu Jun 20 19:18:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464377},
+                {"longitude": 21.0737848}
+            ]]},
+            {"altitude": 81.5},
+            {"distance_km": 4.316},
+            {"speed_kmh": 11.1542},
+            {"timestamp": "Thu Jun 20 19:18:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.246405},
+                {"longitude": 21.073985}
+            ]]},
+            {"altitude": 81.5},
+            {"distance_km": 4.33},
+            {"speed_kmh": 9.8377},
+            {"timestamp": "Thu Jun 20 19:18:38 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463616},
+                {"longitude": 21.0741816}
+            ]]},
+            {"altitude": 81.5},
+            {"distance_km": 4.345},
+            {"speed_kmh": 9.8821},
+            {"timestamp": "Thu Jun 20 19:18:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464382},
+                {"longitude": 21.0742804}
+            ]]},
+            {"altitude": 81.4},
+            {"distance_km": 4.356},
+            {"speed_kmh": 6.2156},
+            {"timestamp": "Thu Jun 20 19:18:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2466423},
+                {"longitude": 21.0743428}
+            ]]},
+            {"altitude": 81.4},
+            {"distance_km": 4.379},
+            {"speed_kmh": 7.7176},
+            {"timestamp": "Thu Jun 20 19:18:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2469174},
+                {"longitude": 21.0743576}
+            ]]},
+            {"altitude": 81.6},
+            {"distance_km": 4.409},
+            {"speed_kmh": 13.8314},
+            {"timestamp": "Thu Jun 20 19:19:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2470615},
+                {"longitude": 21.0743617}
+            ]]},
+            {"altitude": 81.8},
+            {"distance_km": 4.425},
+            {"speed_kmh": 7.9075},
+            {"timestamp": "Thu Jun 20 19:19:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2472054},
+                {"longitude": 21.0743356}
+            ]]},
+            {"altitude": 81.8},
+            {"distance_km": 4.441},
+            {"speed_kmh": 7.504},
+            {"timestamp": "Thu Jun 20 19:19:20 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2473025},
+                {"longitude": 21.0743231}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.452},
+            {"speed_kmh": 9.7774},
+            {"timestamp": "Thu Jun 20 19:19:24 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2475625},
+                {"longitude": 21.0743013}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.481},
+            {"speed_kmh": 11.5883},
+            {"timestamp": "Thu Jun 20 19:19:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2476494},
+                {"longitude": 21.0742578}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.491},
+            {"speed_kmh": 11.6263},
+            {"timestamp": "Thu Jun 20 19:19:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2477462},
+                {"longitude": 21.0740557}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.509},
+            {"speed_kmh": 10.5753},
+            {"timestamp": "Thu Jun 20 19:19:42 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.247749},
+                {"longitude": 21.0736939}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.534},
+            {"speed_kmh": 13.877},
+            {"timestamp": "Thu Jun 20 19:19:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2477066},
+                {"longitude": 21.0734587}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.55},
+            {"speed_kmh": 13.1942},
+            {"timestamp": "Thu Jun 20 19:19:54 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2476719},
+                {"longitude": 21.0730236}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.58},
+            {"speed_kmh": 12.0463},
+            {"timestamp": "Thu Jun 20 19:20:04 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2477599},
+                {"longitude": 21.0726748}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.606},
+            {"speed_kmh": 8.5921},
+            {"timestamp": "Thu Jun 20 19:20:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2477572},
+                {"longitude": 21.0725945}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.612},
+            {"speed_kmh": 10.3087},
+            {"timestamp": "Thu Jun 20 19:20:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2477756},
+                {"longitude": 21.0724911}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.619},
+            {"speed_kmh": 10.3087},
+            {"timestamp": "Thu Jun 20 19:20:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2478013},
+                {"longitude": 21.0723474}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.629},
+            {"speed_kmh": 10.2321},
+            {"timestamp": "Thu Jun 20 19:20:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2478416},
+                {"longitude": 21.0721666}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 4.642},
+            {"speed_kmh": 9.3378},
+            {"timestamp": "Thu Jun 20 19:20:27 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2475731},
+                {"longitude": 21.071899}
+            ]]},
+            {"altitude": 82.4},
+            {"distance_km": 4.677},
+            {"speed_kmh": 13.505},
+            {"timestamp": "Thu Jun 20 19:20:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2473155},
+                {"longitude": 21.07193}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 4.706},
+            {"speed_kmh": 10.4157},
+            {"timestamp": "Thu Jun 20 19:20:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2472244},
+                {"longitude": 21.0719444}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.716},
+            {"speed_kmh": 12.325},
+            {"timestamp": "Thu Jun 20 19:20:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2469839},
+                {"longitude": 21.0719274}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.743},
+            {"speed_kmh": 9.9103},
+            {"timestamp": "Thu Jun 20 19:21:00 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2467593},
+                {"longitude": 21.0718283}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.769},
+            {"speed_kmh": 10.0812},
+            {"timestamp": "Thu Jun 20 19:21:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464792},
+                {"longitude": 21.0717316}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.801},
+            {"speed_kmh": 14.5378},
+            {"timestamp": "Thu Jun 20 19:21:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463635},
+                {"longitude": 21.0720379}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.825},
+            {"speed_kmh": 9.043},
+            {"timestamp": "Thu Jun 20 19:21:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464355},
+                {"longitude": 21.0721934}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.839},
+            {"speed_kmh": 10.7273},
+            {"timestamp": "Thu Jun 20 19:21:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464567},
+                {"longitude": 21.0722891}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.846},
+            {"speed_kmh": 10.1891},
+            {"timestamp": "Thu Jun 20 19:21:34 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464521},
+                {"longitude": 21.0723817}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.852},
+            {"speed_kmh": 10.1891},
+            {"timestamp": "Thu Jun 20 19:21:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464415},
+                {"longitude": 21.0726367}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.869},
+            {"speed_kmh": 10.9424},
+            {"timestamp": "Thu Jun 20 19:21:42 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463906},
+                {"longitude": 21.0730967}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.901},
+            {"speed_kmh": 11.7895},
+            {"timestamp": "Thu Jun 20 19:21:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463538},
+                {"longitude": 21.0733136}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 4.917},
+            {"speed_kmh": 9.7926},
+            {"timestamp": "Thu Jun 20 19:21:58 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463833},
+                {"longitude": 21.0735972}
+            ]]},
+            {"altitude": 81.7},
+            {"distance_km": 4.936},
+            {"speed_kmh": 9.8574},
+            {"timestamp": "Thu Jun 20 19:22:04 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464327},
+                {"longitude": 21.0737216}
+            ]]},
+            {"altitude": 81.6},
+            {"distance_km": 4.946},
+            {"speed_kmh": 9.52},
+            {"timestamp": "Thu Jun 20 19:22:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463944},
+                {"longitude": 21.0740052}
+            ]]},
+            {"altitude": 81.6},
+            {"distance_km": 4.966},
+            {"speed_kmh": 8.2026},
+            {"timestamp": "Thu Jun 20 19:22:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463759},
+                {"longitude": 21.0741346}
+            ]]},
+            {"altitude": 81.6},
+            {"distance_km": 4.975},
+            {"speed_kmh": 12.3382},
+            {"timestamp": "Thu Jun 20 19:22:19 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2463868},
+                {"longitude": 21.074245}
+            ]]},
+            {"altitude": 81.6},
+            {"distance_km": 4.983},
+            {"speed_kmh": 12.3382},
+            {"timestamp": "Thu Jun 20 19:22:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2464318},
+                {"longitude": 21.0743272}
+            ]]},
+            {"altitude": 81.4},
+            {"distance_km": 4.99},
+            {"speed_kmh": 8.1819},
+            {"timestamp": "Thu Jun 20 19:22:24 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2465033},
+                {"longitude": 21.0743292}
+            ]]},
+            {"altitude": 81.4},
+            {"distance_km": 4.998},
+            {"speed_kmh": 8.1819},
+            {"timestamp": "Thu Jun 20 19:22:27 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2467959},
+                {"longitude": 21.0743584}
+            ]]},
+            {"altitude": 81.5},
+            {"distance_km": 5.031},
+            {"speed_kmh": 12.2687},
+            {"timestamp": "Thu Jun 20 19:22:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2469013},
+                {"longitude": 21.0743475}
+            ]]},
+            {"altitude": 81.6},
+            {"distance_km": 5.043},
+            {"speed_kmh": 12.3188},
+            {"timestamp": "Thu Jun 20 19:22:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2470159},
+                {"longitude": 21.074351}
+            ]]},
+            {"altitude": 81.8},
+            {"distance_km": 5.056},
+            {"speed_kmh": 9.7936},
+            {"timestamp": "Thu Jun 20 19:22:46 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2472619},
+                {"longitude": 21.0743227}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 5.083},
+            {"speed_kmh": 10.1688},
+            {"timestamp": "Thu Jun 20 19:22:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2474062},
+                {"longitude": 21.0743419}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 5.099},
+            {"speed_kmh": 10.7436},
+            {"timestamp": "Thu Jun 20 19:23:01 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2476055},
+                {"longitude": 21.0742698}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 5.122},
+            {"speed_kmh": 7.6381},
+            {"timestamp": "Thu Jun 20 19:23:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2478511},
+                {"longitude": 21.0744624}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 5.152},
+            {"speed_kmh": 12.2271},
+            {"timestamp": "Thu Jun 20 19:23:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2480417},
+                {"longitude": 21.074627}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 5.176},
+            {"speed_kmh": 8.0443},
+            {"timestamp": "Thu Jun 20 19:23:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2481924},
+                {"longitude": 21.0746196}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 5.193},
+            {"speed_kmh": 9.3737},
+            {"timestamp": "Thu Jun 20 19:23:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2482825},
+                {"longitude": 21.0746135}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 5.203},
+            {"speed_kmh": 11.7687},
+            {"timestamp": "Thu Jun 20 19:23:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2484175},
+                {"longitude": 21.0746068}
+            ]]},
+            {"altitude": 82.3},
+            {"distance_km": 5.218},
+            {"speed_kmh": 10.8818},
+            {"timestamp": "Thu Jun 20 19:23:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2485547},
+                {"longitude": 21.0745914}
+            ]]},
+            {"altitude": 83},
+            {"distance_km": 5.233},
+            {"speed_kmh": 9.1074},
+            {"timestamp": "Thu Jun 20 19:23:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2486954},
+                {"longitude": 21.0745616}
+            ]]},
+            {"altitude": 83.6},
+            {"distance_km": 5.249},
+            {"speed_kmh": 8.329},
+            {"timestamp": "Thu Jun 20 19:23:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.248819},
+                {"longitude": 21.0745137}
+            ]]},
+            {"altitude": 83.8},
+            {"distance_km": 5.263},
+            {"speed_kmh": 10.4607},
+            {"timestamp": "Thu Jun 20 19:24:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.24893},
+                {"longitude": 21.0745056}
+            ]]},
+            {"altitude": 84},
+            {"distance_km": 5.276},
+            {"speed_kmh": 11.6322},
+            {"timestamp": "Thu Jun 20 19:24:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2490374},
+                {"longitude": 21.0745204}
+            ]]},
+            {"altitude": 84.4},
+            {"distance_km": 5.288},
+            {"speed_kmh": 10.4974},
+            {"timestamp": "Thu Jun 20 19:24:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2491359},
+                {"longitude": 21.0745475}
+            ]]},
+            {"altitude": 84.5},
+            {"distance_km": 5.299},
+            {"speed_kmh": 10.6268},
+            {"timestamp": "Thu Jun 20 19:24:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2492373},
+                {"longitude": 21.0745737}
+            ]]},
+            {"altitude": 84.6},
+            {"distance_km": 5.31},
+            {"speed_kmh": 10.6342},
+            {"timestamp": "Thu Jun 20 19:24:19 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2493608},
+                {"longitude": 21.0745286}
+            ]]},
+            {"altitude": 84.6},
+            {"distance_km": 5.324},
+            {"speed_kmh": 10.0238},
+            {"timestamp": "Thu Jun 20 19:24:24 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2494506},
+                {"longitude": 21.0745208}
+            ]]},
+            {"altitude": 84.6},
+            {"distance_km": 5.334},
+            {"speed_kmh": 10.7144},
+            {"timestamp": "Thu Jun 20 19:24:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2495558},
+                {"longitude": 21.0745529}
+            ]]},
+            {"altitude": 84.6},
+            {"distance_km": 5.346},
+            {"speed_kmh": 9.7036},
+            {"timestamp": "Thu Jun 20 19:24:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2496814},
+                {"longitude": 21.0745785}
+            ]]},
+            {"altitude": 84.6},
+            {"distance_km": 5.36},
+            {"speed_kmh": 11.8486},
+            {"timestamp": "Thu Jun 20 19:24:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2498339},
+                {"longitude": 21.0745624}
+            ]]},
+            {"altitude": 84.6},
+            {"distance_km": 5.377},
+            {"speed_kmh": 9.1571},
+            {"timestamp": "Thu Jun 20 19:24:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2499884},
+                {"longitude": 21.0747705}
+            ]]},
+            {"altitude": 84.4},
+            {"distance_km": 5.4},
+            {"speed_kmh": 8.4173},
+            {"timestamp": "Thu Jun 20 19:24:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2500235},
+                {"longitude": 21.0749095}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 5.41},
+            {"speed_kmh": 4.6821},
+            {"timestamp": "Thu Jun 20 19:24:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.250045},
+                {"longitude": 21.0753446}
+            ]]},
+            {"altitude": 83.4},
+            {"distance_km": 5.44},
+            {"speed_kmh": 11.8436},
+            {"timestamp": "Thu Jun 20 19:25:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2500634},
+                {"longitude": 21.0755765}
+            ]]},
+            {"altitude": 83.4},
+            {"distance_km": 5.456},
+            {"speed_kmh": 13.8598},
+            {"timestamp": "Thu Jun 20 19:25:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2500807},
+                {"longitude": 21.0757431}
+            ]]},
+            {"altitude": 83.2},
+            {"distance_km": 5.467},
+            {"speed_kmh": 13.389},
+            {"timestamp": "Thu Jun 20 19:25:16 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501037},
+                {"longitude": 21.0759104}
+            ]]},
+            {"altitude": 82.9},
+            {"distance_km": 5.479},
+            {"speed_kmh": 6.526},
+            {"timestamp": "Thu Jun 20 19:25:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501268},
+                {"longitude": 21.0763827}
+            ]]},
+            {"altitude": 82.8},
+            {"distance_km": 5.511},
+            {"speed_kmh": 12.9441},
+            {"timestamp": "Thu Jun 20 19:25:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501222},
+                {"longitude": 21.0765524}
+            ]]},
+            {"altitude": 82.8},
+            {"distance_km": 5.523},
+            {"speed_kmh": 11.5437},
+            {"timestamp": "Thu Jun 20 19:25:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501063},
+                {"longitude": 21.0767726}
+            ]]},
+            {"altitude": 82.7},
+            {"distance_km": 5.538},
+            {"speed_kmh": 9.2362},
+            {"timestamp": "Thu Jun 20 19:25:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2500846},
+                {"longitude": 21.0769254}
+            ]]},
+            {"altitude": 82.6},
+            {"distance_km": 5.549},
+            {"speed_kmh": 9.1855},
+            {"timestamp": "Thu Jun 20 19:25:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.250179},
+                {"longitude": 21.0773496}
+            ]]},
+            {"altitude": 82.6},
+            {"distance_km": 5.579},
+            {"speed_kmh": 13.6913},
+            {"timestamp": "Thu Jun 20 19:25:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502222},
+                {"longitude": 21.0774214}
+            ]]},
+            {"altitude": 82.6},
+            {"distance_km": 5.586},
+            {"speed_kmh": 13.9868},
+            {"timestamp": "Thu Jun 20 19:25:55 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502153},
+                {"longitude": 21.0775266}
+            ]]},
+            {"altitude": 82.6},
+            {"distance_km": 5.594},
+            {"speed_kmh": 13.9868},
+            {"timestamp": "Thu Jun 20 19:25:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502348},
+                {"longitude": 21.0777796}
+            ]]},
+            {"altitude": 82.6},
+            {"distance_km": 5.611},
+            {"speed_kmh": 10.7542},
+            {"timestamp": "Thu Jun 20 19:26:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502553},
+                {"longitude": 21.0781485}
+            ]]},
+            {"altitude": 82.6},
+            {"distance_km": 5.636},
+            {"speed_kmh": 7.6468},
+            {"timestamp": "Thu Jun 20 19:26:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502762},
+                {"longitude": 21.0784617}
+            ]]},
+            {"altitude": 82.9},
+            {"distance_km": 5.658},
+            {"speed_kmh": 8.2717},
+            {"timestamp": "Thu Jun 20 19:26:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.250212},
+                {"longitude": 21.0788711}
+            ]]},
+            {"altitude": 82.9},
+            {"distance_km": 5.687},
+            {"speed_kmh": 9.3938},
+            {"timestamp": "Thu Jun 20 19:26:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502083},
+                {"longitude": 21.0792924}
+            ]]},
+            {"altitude": 83.2},
+            {"distance_km": 5.715},
+            {"speed_kmh": 10.8471},
+            {"timestamp": "Thu Jun 20 19:26:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.250321},
+                {"longitude": 21.0796643}
+            ]]},
+            {"altitude": 83.8},
+            {"distance_km": 5.744},
+            {"speed_kmh": 10.2211},
+            {"timestamp": "Thu Jun 20 19:26:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502644},
+                {"longitude": 21.080109}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 5.775},
+            {"speed_kmh": 15.1983},
+            {"timestamp": "Thu Jun 20 19:26:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2503601},
+                {"longitude": 21.0805356}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 5.806},
+            {"speed_kmh": 16.3149},
+            {"timestamp": "Thu Jun 20 19:27:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.250299},
+                {"longitude": 21.0810199}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 5.84},
+            {"speed_kmh": 13.5051},
+            {"timestamp": "Thu Jun 20 19:27:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2503546},
+                {"longitude": 21.0813174}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 5.861},
+            {"speed_kmh": 7.1315},
+            {"timestamp": "Thu Jun 20 19:27:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502803},
+                {"longitude": 21.081643}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 5.885},
+            {"speed_kmh": 7.633},
+            {"timestamp": "Thu Jun 20 19:27:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501787},
+                {"longitude": 21.0820243}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 5.913},
+            {"speed_kmh": 8.3396},
+            {"timestamp": "Thu Jun 20 19:27:46 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2500821},
+                {"longitude": 21.0823221}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 5.936},
+            {"speed_kmh": 7.7518},
+            {"timestamp": "Thu Jun 20 19:27:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501806},
+                {"longitude": 21.082732}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 5.966},
+            {"speed_kmh": 12.0256},
+            {"timestamp": "Thu Jun 20 19:28:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501551},
+                {"longitude": 21.0832335}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 6},
+            {"speed_kmh": 15.3563},
+            {"timestamp": "Thu Jun 20 19:28:13 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501354},
+                {"longitude": 21.0836718}
+            ]]},
+            {"altitude": 83.6},
+            {"distance_km": 6.03},
+            {"speed_kmh": 11.6069},
+            {"timestamp": "Thu Jun 20 19:28:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501195},
+                {"longitude": 21.0841311}
+            ]]},
+            {"altitude": 83.5},
+            {"distance_km": 6.062},
+            {"speed_kmh": 10.0909},
+            {"timestamp": "Thu Jun 20 19:28:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502133},
+                {"longitude": 21.0845978}
+            ]]},
+            {"altitude": 83.5},
+            {"distance_km": 6.095},
+            {"speed_kmh": 16.3285},
+            {"timestamp": "Thu Jun 20 19:28:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502127},
+                {"longitude": 21.0850604}
+            ]]},
+            {"altitude": 83.4},
+            {"distance_km": 6.127},
+            {"speed_kmh": 10.8706},
+            {"timestamp": "Thu Jun 20 19:28:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2502182},
+                {"longitude": 21.0854776}
+            ]]},
+            {"altitude": 83.5},
+            {"distance_km": 6.155},
+            {"speed_kmh": 9.9119},
+            {"timestamp": "Thu Jun 20 19:29:00 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.25022},
+                {"longitude": 21.0858052}
+            ]]},
+            {"altitude": 83.6},
+            {"distance_km": 6.178},
+            {"speed_kmh": 7.4223},
+            {"timestamp": "Thu Jun 20 19:29:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2501923},
+                {"longitude": 21.0862039}
+            ]]},
+            {"altitude": 83.5},
+            {"distance_km": 6.205},
+            {"speed_kmh": 10.3081},
+            {"timestamp": "Thu Jun 20 19:29:20 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2500996},
+                {"longitude": 21.0866351}
+            ]]},
+            {"altitude": 83.5},
+            {"distance_km": 6.236},
+            {"speed_kmh": 12.4814},
+            {"timestamp": "Thu Jun 20 19:29:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2500727},
+                {"longitude": 21.0870655}
+            ]]},
+            {"altitude": 83.4},
+            {"distance_km": 6.266},
+            {"speed_kmh": 11.1398},
+            {"timestamp": "Thu Jun 20 19:29:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.250155},
+                {"longitude": 21.0873967}
+            ]]},
+            {"altitude": 82.9},
+            {"distance_km": 6.29},
+            {"speed_kmh": 8.8419},
+            {"timestamp": "Thu Jun 20 19:29:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.250058},
+                {"longitude": 21.0876797}
+            ]]},
+            {"altitude": 82.9},
+            {"distance_km": 6.312},
+            {"speed_kmh": 8.2454},
+            {"timestamp": "Thu Jun 20 19:29:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2500306},
+                {"longitude": 21.0881156}
+            ]]},
+            {"altitude": 82.8},
+            {"distance_km": 6.342},
+            {"speed_kmh": 10.6198},
+            {"timestamp": "Thu Jun 20 19:30:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2500141},
+                {"longitude": 21.0885584}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 6.373},
+            {"speed_kmh": 10.8648},
+            {"timestamp": "Thu Jun 20 19:30:19 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2498561},
+                {"longitude": 21.0887708}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 6.395},
+            {"speed_kmh": 8.671},
+            {"timestamp": "Thu Jun 20 19:30:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2496349},
+                {"longitude": 21.0889294}
+            ]]},
+            {"altitude": 81.1},
+            {"distance_km": 6.422},
+            {"speed_kmh": 9.5854},
+            {"timestamp": "Thu Jun 20 19:30:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2493935},
+                {"longitude": 21.088703}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 6.453},
+            {"speed_kmh": 12.3968},
+            {"timestamp": "Thu Jun 20 19:30:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.249126},
+                {"longitude": 21.08861}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 6.484},
+            {"speed_kmh": 11.0791},
+            {"timestamp": "Thu Jun 20 19:30:58 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2488627},
+                {"longitude": 21.0886001}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 6.513},
+            {"speed_kmh": 11.2265},
+            {"timestamp": "Thu Jun 20 19:31:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2487725},
+                {"longitude": 21.088634}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 6.523},
+            {"speed_kmh": 10.4335},
+            {"timestamp": "Thu Jun 20 19:31:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2486299},
+                {"longitude": 21.0887255}
+            ]]},
+            {"altitude": 80.9},
+            {"distance_km": 6.54},
+            {"speed_kmh": 10.0412},
+            {"timestamp": "Thu Jun 20 19:31:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2483641},
+                {"longitude": 21.0889143}
+            ]]},
+            {"altitude": 81},
+            {"distance_km": 6.573},
+            {"speed_kmh": 11.269},
+            {"timestamp": "Thu Jun 20 19:31:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2481882},
+                {"longitude": 21.0892491}
+            ]]},
+            {"altitude": 81.9},
+            {"distance_km": 6.603},
+            {"speed_kmh": 10.9737},
+            {"timestamp": "Thu Jun 20 19:31:38 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2481765},
+                {"longitude": 21.0894968}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 6.62},
+            {"speed_kmh": 11.4895},
+            {"timestamp": "Thu Jun 20 19:31:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2481783},
+                {"longitude": 21.0895775}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 6.625},
+            {"speed_kmh": 11.6258},
+            {"timestamp": "Thu Jun 20 19:31:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2481584},
+                {"longitude": 21.0896612}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 6.631},
+            {"speed_kmh": 11.6258},
+            {"timestamp": "Thu Jun 20 19:31:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2480931},
+                {"longitude": 21.0897958}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 6.643},
+            {"speed_kmh": 11.2938},
+            {"timestamp": "Thu Jun 20 19:31:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2480104},
+                {"longitude": 21.0898659}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 6.654},
+            {"speed_kmh": 12.0069},
+            {"timestamp": "Thu Jun 20 19:31:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479493},
+                {"longitude": 21.0901038}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 6.671},
+            {"speed_kmh": 9.7345},
+            {"timestamp": "Thu Jun 20 19:32:00 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479239},
+                {"longitude": 21.0903078}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 6.685},
+            {"speed_kmh": 10.3322},
+            {"timestamp": "Thu Jun 20 19:32:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479202},
+                {"longitude": 21.0904795}
+            ]]},
+            {"altitude": 82.3},
+            {"distance_km": 6.697},
+            {"speed_kmh": 9.5612},
+            {"timestamp": "Thu Jun 20 19:32:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479138},
+                {"longitude": 21.0905722}
+            ]]},
+            {"altitude": 82.3},
+            {"distance_km": 6.703},
+            {"speed_kmh": 9.5022},
+            {"timestamp": "Thu Jun 20 19:32:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479204},
+                {"longitude": 21.0906772}
+            ]]},
+            {"altitude": 82.3},
+            {"distance_km": 6.711},
+            {"speed_kmh": 9.5022},
+            {"timestamp": "Thu Jun 20 19:32:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479316},
+                {"longitude": 21.0907784}
+            ]]},
+            {"altitude": 82.3},
+            {"distance_km": 6.718},
+            {"speed_kmh": 9.4004},
+            {"timestamp": "Thu Jun 20 19:32:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2479623},
+                {"longitude": 21.0908506}
+            ]]},
+            {"altitude": 82.3},
+            {"distance_km": 6.724},
+            {"speed_kmh": 9.4004},
+            {"timestamp": "Thu Jun 20 19:32:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2481348},
+                {"longitude": 21.0912141}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 6.755},
+            {"speed_kmh": 13.1757},
+            {"timestamp": "Thu Jun 20 19:32:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.248338},
+                {"longitude": 21.0914201}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 6.782},
+            {"speed_kmh": 9.9013},
+            {"timestamp": "Thu Jun 20 19:32:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.248548},
+                {"longitude": 21.0915422}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 6.807},
+            {"speed_kmh": 13.2014},
+            {"timestamp": "Thu Jun 20 19:32:46 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2486707},
+                {"longitude": 21.0916117}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 6.821},
+            {"speed_kmh": 9.4193},
+            {"timestamp": "Thu Jun 20 19:32:51 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2488042},
+                {"longitude": 21.0916448}
+            ]]},
+            {"altitude": 82.2},
+            {"distance_km": 6.836},
+            {"speed_kmh": 9.0072},
+            {"timestamp": "Thu Jun 20 19:32:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2488169},
+                {"longitude": 21.091892}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 6.853},
+            {"speed_kmh": 6.8928},
+            {"timestamp": "Thu Jun 20 19:33:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2487973},
+                {"longitude": 21.091964}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 6.858},
+            {"speed_kmh": 10.1394},
+            {"timestamp": "Thu Jun 20 19:33:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2488228},
+                {"longitude": 21.0920492}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 6.865},
+            {"speed_kmh": 10.1394},
+            {"timestamp": "Thu Jun 20 19:33:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2488525},
+                {"longitude": 21.0921293}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 6.871},
+            {"speed_kmh": 10.1394},
+            {"timestamp": "Thu Jun 20 19:33:13 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2489076},
+                {"longitude": 21.092181}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 6.878},
+            {"speed_kmh": 10.3268},
+            {"timestamp": "Thu Jun 20 19:33:16 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2489821},
+                {"longitude": 21.092181}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 6.887},
+            {"speed_kmh": 10.3268},
+            {"timestamp": "Thu Jun 20 19:33:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2491508},
+                {"longitude": 21.0922284}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 6.906},
+            {"speed_kmh": 9.8816},
+            {"timestamp": "Thu Jun 20 19:33:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.249293},
+                {"longitude": 21.0922663}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 6.922},
+            {"speed_kmh": 8.2905},
+            {"timestamp": "Thu Jun 20 19:33:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2494299},
+                {"longitude": 21.0922839}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 6.937},
+            {"speed_kmh": 9.1604},
+            {"timestamp": "Thu Jun 20 19:33:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2495227},
+                {"longitude": 21.0924468}
+            ]]},
+            {"altitude": 82},
+            {"distance_km": 6.952},
+            {"speed_kmh": 4.7792},
+            {"timestamp": "Thu Jun 20 19:33:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2494753},
+                {"longitude": 21.0926113}
+            ]]},
+            {"altitude": 82.1},
+            {"distance_km": 6.964},
+            {"speed_kmh": 5.8408},
+            {"timestamp": "Thu Jun 20 19:33:55 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2493274},
+                {"longitude": 21.0930204}
+            ]]},
+            {"altitude": 82.3},
+            {"distance_km": 6.997},
+            {"speed_kmh": 15.8732},
+            {"timestamp": "Thu Jun 20 19:34:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2492471},
+                {"longitude": 21.0934264}
+            ]]},
+            {"altitude": 82.6},
+            {"distance_km": 7.026},
+            {"speed_kmh": 9.5275},
+            {"timestamp": "Thu Jun 20 19:34:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.249123},
+                {"longitude": 21.0938098}
+            ]]},
+            {"altitude": 82.7},
+            {"distance_km": 7.056},
+            {"speed_kmh": 11.8392},
+            {"timestamp": "Thu Jun 20 19:34:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2490528},
+                {"longitude": 21.0940331}
+            ]]},
+            {"altitude": 82.9},
+            {"distance_km": 7.073},
+            {"speed_kmh": 10.7012},
+            {"timestamp": "Thu Jun 20 19:34:27 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2489949},
+                {"longitude": 21.0942012}
+            ]]},
+            {"altitude": 82.9},
+            {"distance_km": 7.086},
+            {"speed_kmh": 10.6996},
+            {"timestamp": "Thu Jun 20 19:34:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2489296},
+                {"longitude": 21.094429}
+            ]]},
+            {"altitude": 83.6},
+            {"distance_km": 7.103},
+            {"speed_kmh": 10.0071},
+            {"timestamp": "Thu Jun 20 19:34:38 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2488833},
+                {"longitude": 21.0945577}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 7.113},
+            {"speed_kmh": 9.316},
+            {"timestamp": "Thu Jun 20 19:34:42 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2488221},
+                {"longitude": 21.0947706}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 7.129},
+            {"speed_kmh": 9.7087},
+            {"timestamp": "Thu Jun 20 19:34:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2487442},
+                {"longitude": 21.0949928}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 7.147},
+            {"speed_kmh": 12.9406},
+            {"timestamp": "Thu Jun 20 19:34:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2487217},
+                {"longitude": 21.0951111}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 7.155},
+            {"speed_kmh": 11.8459},
+            {"timestamp": "Thu Jun 20 19:34:55 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2486663},
+                {"longitude": 21.0952841}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 7.169},
+            {"speed_kmh": 10.416},
+            {"timestamp": "Thu Jun 20 19:35:00 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2486189},
+                {"longitude": 21.0954919}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 7.184},
+            {"speed_kmh": 9.8513},
+            {"timestamp": "Thu Jun 20 19:35:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2485883},
+                {"longitude": 21.0956355}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 7.194},
+            {"speed_kmh": 10.9679},
+            {"timestamp": "Thu Jun 20 19:35:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2485521},
+                {"longitude": 21.0958268}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 7.208},
+            {"speed_kmh": 10.6556},
+            {"timestamp": "Thu Jun 20 19:35:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2485025},
+                {"longitude": 21.0959619}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 7.219},
+            {"speed_kmh": 9.5912},
+            {"timestamp": "Thu Jun 20 19:35:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.248474},
+                {"longitude": 21.096051}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 7.225},
+            {"speed_kmh": 11.0816},
+            {"timestamp": "Thu Jun 20 19:35:20 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2484523},
+                {"longitude": 21.0961536}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 7.233},
+            {"speed_kmh": 11.0816},
+            {"timestamp": "Thu Jun 20 19:35:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2484358},
+                {"longitude": 21.0962315}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 7.238},
+            {"speed_kmh": 11.0816},
+            {"timestamp": "Thu Jun 20 19:35:24 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2483882},
+                {"longitude": 21.0964308}
+            ]]},
+            {"altitude": 83.9},
+            {"distance_km": 7.253},
+            {"speed_kmh": 11.0557},
+            {"timestamp": "Thu Jun 20 19:35:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2483882},
+                {"longitude": 21.0964308}
+            ]]},
+            {"distance_km": 7.253},
+            {"timestamp": "Thu Jun 20 19:35:30 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 52.2483882},
+                {"longitude": 21.0964308}
+            ]]},
+            {"distance_km": 7.253},
+            {"timestamp": "Thu Jun 20 19:35:33 UTC 2019"}
+        ]
+    ]}
+]
