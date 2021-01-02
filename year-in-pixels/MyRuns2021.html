@@ -680,8 +680,8 @@ UNIT[DISTANCE] = 'km'
 UNIT[TIME] = ''
 UNIT[STEPS] = 'steps'
 
-const myData = JSON.parse(DoroEndo2019)
-//const myData = JSON.parse(Endo2019)
+//const myData = JSON.parse(DoroEndo2019)
+const myData = JSON.parse(Endo2019)
 
 const year = 2019
 const type = RUN
@@ -891,7 +891,7 @@ for (let m = 1; m <= numberOfMonths; m++) {
   let total = data[m] ? Math.round(data[m].reduce((a, b) => a + b)) : 0
   let totalValue = TO_STRING[value](total)
 
-  rows += `<td class="total">${totalValue} ${uom}</td>`;
+  rows += `<td class="total">${totalValue}&nbsp;${uom}</td>`;
 
   rows += `</tr>`;
 }
