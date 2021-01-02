@@ -1,11 +1,11 @@
 <?php
 require __DIR__ . '/vendor/autoload.php';
 
-$YEAR = 2020;
+$YEAR = 2019;
 
 $format = $format = "d/m/Y H:i:s";
 
-$files = glob('../data/endomondo-workouts-d/*.tcx');
+$files = glob('../data/endomondo-workouts-d/' . $YEAR . '*.tcx');
 $parser = new \Waddle\Parsers\TCXParser();
 
 $data = [];
@@ -39,12 +39,13 @@ foreach($files as $file) {
 }
 
 
-function inYear($activity) {
+/*function inYear($activity) {
   global $YEAR;
   return $activity["year"] == $YEAR;
 }
 
 $data = array_filter($data, "inYear");
+*/
 
 echo '<pre>';
 echo '[' . "\r\n";
