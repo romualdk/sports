@@ -339,6 +339,15 @@ function getTableHtml ($tbl) {
   $html .= "<tbody>\r\n";
   $html .= "</table>\r\n";
 
+  if ($totalLastCol && $totalLastRow) {
+    $rows = count($data);
+    $cols = count($data[$rows-1]);
+
+    $grandTotal = round($data[$rows-1][$cols-1]);
+
+    $html .= "<h2>Total " . $grandTotal . " km</h2>";
+  }
+
   return $html;
 }
 
