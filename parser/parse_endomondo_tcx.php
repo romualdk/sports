@@ -1,11 +1,9 @@
 <?php
 require __DIR__ . '/vendor/autoload.php';
 
-$YEAR = 2019;
-
 $format = $format = "d/m/Y H:i:s";
 
-$files = glob('../data/endomondo-workouts-d/' . $YEAR . '*.tcx');
+$files = glob('../data/endomondo-workouts-r/*.tcx');
 $parser = new \Waddle\Parsers\TCXParser();
 
 $data = [];
@@ -20,16 +18,16 @@ foreach($files as $file) {
   $year = intval($activity->getStartTime('Y'));
   $month = intval($activity->getStartTime('m'));
   $day = intval($activity->getStartTime('d'));
-  $distance = $activity->getTotalDistance(); # In metres, e.g. 1000
+  $distance = intval($activity->getTotalDistance()); # In metres, e.g. 1000
   $duration = \Waddle\Converter::convertSecondsToHumanReadable($activity->getTotalDuration()); # In seconds, e.g. 255
-  $calories = $activity->getTotalCalories(); # e.g. 100
+  $calories = intval($activity->getTotalCalories()); # e.g. 100
 
   $act = [
-    //"start" => $start,
+    "start" => $start,
     "year" => $year,
     "month" => $month,
     "day" => $day,
-    "type" => $type,
+    "type" => strtolower($type),
     "distance" => $distance,
     "time" => $duration,
     "calories" => $calories

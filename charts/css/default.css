@@ -1,0 +1,60 @@
+h1 {
+  margin: 16px;
+  font-size: 48px;
+}
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+ 
+  text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    text-align: center;
+    margin: 0 auto;
+}
+
+table td {
+  padding: 2px;
+  color: white;
+}
+
+table th {
+  color: #a5a5a5;
+  padding: 2px;
+}
+
+table tbody th {
+  padding-right: 8px;
+}
+
+table thead th {
+  padding-bottom: 8px;
+}
+
+table th.month {
+  text-align: left;
+}
+
+/*
+https://hihayk.github.io/scale/#2/2/50/80/-51/67/20/14/1D9A6C/29/154/108/white
+*/
+
+td.min .cell { background-color: #99D492; }
+td.below .cell { background-color: #56B870; }
+td.normal .cell { background-color: #1D9A6C; }
+td.above .cell { background-color: #137177;}
+td.max .cell { background-color: #0A2F51; }
+
+td.total { color: #a5a5a5; text-align: right; padding-left: 16px; }
+
+.cell {
+  height: 36px;
+  width: 36px;
+  line-height: 36px;
+  font-size: 16px;
+  border-radius: 50%;
+}

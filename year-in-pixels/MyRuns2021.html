@@ -677,7 +677,7 @@ VALUE[STEPS] = STEPS
 
 const UNIT = {}
 UNIT[DISTANCE] = 'km'
-UNIT[TIME] = ''
+UNIT[TIME] = 'h'
 UNIT[STEPS] = 'steps'
 
 //const myData = JSON.parse(DoroEndo2019)
@@ -685,7 +685,7 @@ const myData = JSON.parse(Endo2019)
 
 const year = 2019
 const type = RUN
-const value = DISTANCE
+const value = TIME
 
 function timeStringToFloat(time) {
   var hoursMinutes = time.split(/[.:]/)
@@ -696,12 +696,12 @@ function timeStringToFloat(time) {
 }
 
 const TO_NUMBER = {}
-TO_NUMBER[DISTANCE] = (v) => v / 1000
+TO_NUMBER[DISTANCE] = (v) => v
 TO_NUMBER[TIME] = timeStringToFloat
 TO_NUMBER[STEPS] = (v) => v
 
 const TO_STRING = {}
-TO_STRING[DISTANCE] = (v) => Math.round(v)
+TO_STRING[DISTANCE] = (v) => Math.round(v / 1000)
 TO_STRING[TIME] = (v) => Math.round(v)
 TO_STRING[STEPS] = (v) => Math.round(v / 1000) + 'k'
 
