@@ -61,9 +61,9 @@ table {
 }
 
 
-h1 {
+h2 {
   margin: 16px;
-  font-size: 48px;
+  font-size: 32px;
 }
 
 
@@ -168,15 +168,6 @@ function toKM ($distance) {
   return round($distance / 1000, 2);
 }
 
-$path = '../data/gpx-2021-r/*.gpx';
-$data = getData($path);
-$totalDistance = getTotalDistance($data);
-$totalDistanceKM = toKM($totalDistance);
-$json = json_encode($data, JSON_PRETTY_PRINT);
-
-echo "<pre>";
-// echo "Total distance: " . $totalDistanceKM  . " km" . "\r\n\r\n";
-// echo $json . "\r\n\r\n";
 
 function getStates ($data) {
   $nums = array_map(function ($item) { return $item["distance"] / 1000; }, $data);
@@ -213,12 +204,12 @@ function getState($value, $states) {
   return "unknown";
 }
 
+function getWeek($var) {
+  return $var["week"];
+}
+
 function getTableDataWeekly ($data, $title) {
   $weekdays = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
-
-  function getWeek($var) {
-    return $var["week"];
-  }
 
   $weeks = array_unique(array_map("getWeek", $data));
 
@@ -286,7 +277,7 @@ function getTableHtml ($tbl) {
   $html = "";
 
   if ($hasTitle) {
-    $html .= "<h1>" . $tbl["title"] . "</h1>";
+    $html .= "<h2>" . $tbl["title"] . "</h2>";
   }
 
   $html .= "<table>\r\n";
@@ -345,14 +336,20 @@ function getTableHtml ($tbl) {
 
     $grandTotal = round($data[$rows-1][$cols-1]);
 
-    $html .= "<h2>Total " . $grandTotal . " km</h2>";
+    $html .= "<h3>Total " . $grandTotal . " km</h3>";
   }
 
   return $html;
 }
 
-$tbl = getTableDataWeekly($data, "2021 weekly");
 
-// echo json_encode($tbl, JSON_PRETTY_PRINT);
+function printTable($path, $title) {
+  $data = getData($path);
+  $tbl = getTableDataWeekly($data, "2021 weekly", $title);
+  $tbl["title"] = $title;
 
-echo getTableHtml($tbl);
+  echo getTableHtml($tbl);
+}
+
+printTable('../data/2021-romek/*.gpx', '2021 Romek');
+printTable('../data/2021-dorota/*.gpx', '2021 Dorota');
